@@ -1,10 +1,118 @@
-- 👋 Hi, I’m @Chris010980
-- 👀 I’m interested in Quantum Chemistry and Physics, Theoretical Physics, Big Data and Analysis, Python, Matlab/Octave, C/C++, HTML, CSS, PHP, SQL
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Christian
 
-<!---
-Chris010980/Chris010980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Physicist with a strong background in **quantitative analysis, scientific computing, and software engineering**.
+
+I specialize in building **reproducible data pipelines and scientifically accurate visualizations**, with a focus on avoiding misleading representations in complex datasets.
+
+---
+
+## 🔬 Core Focus
+
+- Scientific Data Visualization
+- Quantitative Analysis (Python)
+- Geospatial Data Processing
+- Mathematical Modeling (physics-driven)
+
+---
+
+## 🧠 Background
+
+- Physics (analytical + mathematical focus)
+- Software QA Engineer (Automotive)
+  - ECU testing
+  - Test automation
+  - CI/CD workflows
+
+Approach:
+- structured, system-level thinking
+- emphasis on correctness, reproducibility, and clarity
+
+---
+
+## 🛠️ Tech Stack
+
+### Python
+- NumPy, SciPy
+- Pandas
+- Matplotlib
+- GeoPandas, rasterio
+
+### Visualization
+- Matplotlib (publication-ready figures)
+- projection-aware geospatial visualization
+
+### Web
+- HTML / CSS
+- MathJax
+
+### Currently exploring
+- D3.js (interactive visualization)
+- Playwright (E2E testing)
+
+---
+
+## 📊 Selected Projects
+
+### Global Population Density Visualization
+Projection-aware analysis of global population density.
+
+- Mercator vs Robinson vs Orthographic
+- distortion-aware visualization
+- logarithmic scaling across multiple orders of magnitude
+- reproducible raster pipeline
+
+👉 Focus: **avoiding misleading geospatial representations**
+
+---
+
+### Hudson Bay Sea Ice Analysis
+Temporal and spatial analysis of sea ice distribution.
+
+- environmental data processing
+- time-series + spatial visualization
+- geospatial consistency
+
+---
+
+### Helium Potential Modeling
+Visualization of analytical and numerical models from quantum mechanics.
+
+- mathematical modeling
+- comparison of analytic vs numeric solutions
+- physics-driven visualization
+
+---
+
+## 🎯 What I Care About
+
+- scientific correctness over aesthetics
+- reproducibility over convenience
+- clarity over visual noise
+
+---
+
+## 🚀 Current Direction
+
+Building a portfolio focused on:
+
+- high-quality, publication-ready visualizations
+- reproducible analysis pipelines
+- mathematically grounded data interpretation
+
+---
+
+## 🔗 Links
+
+- Portfolio (GitHub Pages): *(add link)*
+- Upwork: *(optional)*
+- Malt: *(optional)*
+
+---
+
+## 📫 Contact
+
+Feel free to reach out for:
+
+- data visualization projects
+- geospatial analysis
+- scientific / technical Python work
