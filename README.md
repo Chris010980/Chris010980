@@ -103,7 +103,7 @@ Building a portfolio focused on:
 
 ## 🔗 Links
 
-- Portfolio (GitHub Pages): *(add link)*
+- Portfolio (GitHub Pages): *(https://chris010980.github.io/DataVisualizationAnalysis/index.html)*
 - Upwork: *(optional)*
 - Malt: *(optional)*
 
