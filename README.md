@@ -103,9 +103,9 @@ Building a portfolio focused on:
 
 ## 🔗 Links
 
-- Portfolio (GitHub Pages): *(https://chris010980.github.io/DataVisualizationAnalysis/index.html)*
-- Upwork: *(optional)*
-- Malt: *(optional)*
+- Portfolio (GitHub Pages): *([DataVisualizationAnalysis](https://chris010980.github.io/DataVisualizationAnalysis/index.html))*
+- Upwork: *([Upwork](https://www.malt.de/profile/christianlurz?overview))*
+- Malt: *([Malt](https://www.malt.de/profile/christianlurz?overview))*
 
 ---
 
